@@ -1,16 +1,46 @@
-# bottel_spinner_game
+# Bottle Spinning Game - Flutter
 
-A new Flutter project.
+![Cover Image](https://i.postimg.cc/Y9rWr9Bn/Untitled-2.png)
 
-## Getting Started
+A fun and interactive **Bottle Spinning Game** built with **Flutter**. This game mimics the classic party game where a bottle is spun to select a random player. Designed for multiple players, it comes with animations, sound effects, and a colorful interface for an engaging experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Start Screen**
+![Start Screen](https://i.postimg.cc/1tmqmt16/Screenshot-1760495699.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Playing Area**
+![Playing Area](https://i.postimg.cc/ZRbdbRhk/Screenshot-1760495685.png)
+
+---
+
+## Features
+
+- **Add Players:** Easily add multiple players with validation to prevent duplicates.
+- **Spinning Bottle:** Interactive spinning wheel to randomly select a player.
+- **Animated UI:** Gradient backgrounds, bouncing logos, glowing wheel, and animated buttons.
+- **Sound Effects:** Pop and click sounds for a lively experience.
+- **Responsive Layout:** Works on different screen sizes.
+- **Share Feature:** Share the game or results with friends.
+
+---
+
+## Tech Stack
+
+- **Flutter & Dart** – Cross-platform mobile development.
+- **GetX** – State management and routing.
+- **Nb_utils** – UI utilities for Flutter.
+- **Audioplayers** – Sound effects.
+- **Custom Spinning Wheel Widget** – Core game mechanic.
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Riyaz7364/bottle-spinning-game-flutter
+```
