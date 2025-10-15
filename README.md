@@ -12,13 +12,13 @@ This project is published by **[AutoLikerLive](https://www.autolikerlive.com/)**
 
 ---
 
+
+## 📸 Screenshots
+
+| **Start Screen**                                                                         | **Playing Area**                                                                      |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![Puzzle Block Gameplay](https://i.postimg.cc/1tmqmt16/Screenshot-1760495699.png) | ![Puzzle Block Game Over](https://i.postimg.cc/ZRbdbRhk/Screenshot-1760495685.png) |
 ## Screenshots
-
-**Start Screen**  
-![Start Screen](https://i.postimg.cc/1tmqmt16/Screenshot-1760495699.png)
-
-**Playing Area**  
-![Playing Area](https://i.postimg.cc/ZRbdbRhk/Screenshot-1760495685.png)
 
 ---
 
