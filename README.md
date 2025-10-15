@@ -6,12 +6,18 @@ A fun and interactive **Bottle Spinning Game** built with **Flutter**. This game
 
 ---
 
+## Publisher / Owner
+
+This project is published by **[AutoLikerLive](https://www.autolikerlive.com/)**.
+
+---
+
 ## Screenshots
 
-**Start Screen**
+**Start Screen**  
 ![Start Screen](https://i.postimg.cc/1tmqmt16/Screenshot-1760495699.png)
 
-**Playing Area**
+**Playing Area**  
 ![Playing Area](https://i.postimg.cc/ZRbdbRhk/Screenshot-1760495685.png)
 
 ---
